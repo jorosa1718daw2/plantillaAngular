@@ -1,0 +1,11 @@
+C:\Users\Nathan\source\repos\NetCore_Sass_Angular6_updates\netcore_desde_cli\bin\Debug\netcoreapp2.0\netcore_desde_cli.deps.json
+C:\Users\Nathan\source\repos\NetCore_Sass_Angular6_updates\netcore_desde_cli\bin\Debug\netcoreapp2.0\netcore_desde_cli.runtimeconfig.json
+C:\Users\Nathan\source\repos\NetCore_Sass_Angular6_updates\netcore_desde_cli\bin\Debug\netcoreapp2.0\netcore_desde_cli.runtimeconfig.dev.json
+C:\Users\Nathan\source\repos\NetCore_Sass_Angular6_updates\netcore_desde_cli\bin\Debug\netcoreapp2.0\netcore_desde_cli.dll
+C:\Users\Nathan\source\repos\NetCore_Sass_Angular6_updates\netcore_desde_cli\bin\Debug\netcoreapp2.0\netcore_desde_cli.pdb
+C:\Users\Nathan\source\repos\NetCore_Sass_Angular6_updates\netcore_desde_cli\obj\Debug\netcoreapp2.0\netcore_desde_cli.csprojAssemblyReference.cache
+C:\Users\Nathan\source\repos\NetCore_Sass_Angular6_updates\netcore_desde_cli\obj\Debug\netcoreapp2.0\netcore_desde_cli.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\source\repos\NetCore_Sass_Angular6_updates\netcore_desde_cli\obj\Debug\netcoreapp2.0\netcore_desde_cli.AssemblyInfoInputs.cache
+C:\Users\Nathan\source\repos\NetCore_Sass_Angular6_updates\netcore_desde_cli\obj\Debug\netcoreapp2.0\netcore_desde_cli.AssemblyInfo.cs
+C:\Users\Nathan\source\repos\NetCore_Sass_Angular6_updates\netcore_desde_cli\obj\Debug\netcoreapp2.0\netcore_desde_cli.dll
+C:\Users\Nathan\source\repos\NetCore_Sass_Angular6_updates\netcore_desde_cli\obj\Debug\netcoreapp2.0\netcore_desde_cli.pdb
